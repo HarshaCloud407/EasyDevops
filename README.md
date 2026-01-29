@@ -1,2 +1,2 @@
 # EasyDevops
-easily learn Devops
+easily learn Devops.
